@@ -14,7 +14,7 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
@@ -38,7 +38,7 @@ const CONFIG = {
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: '',
         },
         {
           title: 'Project Name',
@@ -46,7 +46,7 @@ const CONFIG = {
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: '',
         },
       ],
     },
@@ -113,7 +113,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Universitas Muhammadiyah Surakarta',
-      degree: 'Bachelor Degree',
+      degree: 'Bachelor of Computer Science ',
       from: '2017',
       to: '2022',
     },
