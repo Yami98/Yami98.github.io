@@ -46,7 +46,7 @@ const CONFIG = {
             'A web application developed for Almadina Company, built using the Laravel framework and powered by a MySQL database. This application provides a reliable and efficient solution tailored to meet the company operational needs.',
           imageUrl:
             'https://drive.google.com/u/0/drive-viewer/AKGpihb2Paf0YqnXb2zFK2kDqLBZGGYQWsFct2DQ9Nekfcz9tg7GHeRlMOnDue2T6yl15ucDH7PFxwTC-kztOFwpsUOTCwToDjnl1fo=s1600-rw-v1',
-          link: '',
+          link: 'http://almadinahajiumroh.co.id/',
         },
         {
           title: 'Kuhaku Web',
