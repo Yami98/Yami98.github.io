@@ -28,8 +28,22 @@ const CONFIG = {
         projects: ['Yami98/Kuhaku'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
+    active: {
+      header: 'Active Projects',
+      // To hide the `External Projects` section, keep it empty.
+      projects: [
+        {
+          title: 'Kuhaku Discord Bot',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: '',
+        },
+      ],
+    },
     external: {
-      header: 'My Projects',
+      header: 'All Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
