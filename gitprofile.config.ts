@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['Yami98/Kuhaku'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['Yami98/Kuhaku', 'YYami98/osu-web', 'Yami98/osu-wiki'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -35,17 +35,33 @@ const CONFIG = {
         {
           title: 'Kuhaku Discord Bot',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'A custom-built bot developed using the native Node.js module, integrating with the osu! API for retrieving game data and MongoDB as the database solution. ',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://cdn.discordapp.com/avatars/1040658705978499072/3bd3b2b0c4fe710c8e6ab6ea392b9317.webp',
+          link: 'https://github.com/Yami98/Kuhaku',
+        },
+        {
+          title: 'Web Base Application for Almadina Company',
+          description:
+            'A web application developed for Almadina Company, built using the Laravel framework and powered by a MySQL database. This application provides a reliable and efficient solution tailored to meet the company operational needs.',
+          imageUrl:
+            'https://drive.google.com/u/0/drive-viewer/AKGpihb2Paf0YqnXb2zFK2kDqLBZGGYQWsFct2DQ9Nekfcz9tg7GHeRlMOnDue2T6yl15ucDH7PFxwTC-kztOFwpsUOTCwToDjnl1fo=s1600-rw-v1',
           link: '',
         },
         {
-          title: 'Project Name',
+          title: 'Kuhaku Web',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'A web application developed for Almadina Company, built using the Laravel framework and powered by a MySQL database. This application provides a reliable and efficient solution tailored to meet the company operational needs.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://media.discordapp.net/attachments/548675026191253536/1048503100417249341/Long_Kuhaku.png?ex=6759411b&is=6757ef9b&hm=ac8d6aadaa6f40dd5f140dbdf877b36b3113556e4faf99d796a570462bae3fcb&=&format=webp&quality=lossless&width=1195&height=434',
+          link: '',
+        },
+        {
+          title: 'Tanoshinde Mini Tournament (TMT) Website',
+          description:
+            'A web application developed for TMT Web, utilizing the Laravel framework and MySQL database to ensure seamless performance and robust data management. The application integrates the osu! API to provide dynamic osu! features and includes a custom-built referee system with real-time match monitoring and live chat functionality, enhancing the user experience for competitive gameplay.',
+          imageUrl:
+            'https://i.ppy.sh/ddc859e725aaa96e274e0650f9ede6a8a2bbd3af/68747470733a2f2f696d6775722d617263686976652e7070792e73682f646973636f72642f3837383232383035313139303737313733322d313132343332343736383131323435353731302d486f73742e706e67',
           link: '',
         },
       ],
