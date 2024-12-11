@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['Yami98/Kuhaku', 'Yami98/osu-web', 'Yami98/osu-wiki'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['Yami98/Kuhaku', 'Yami98/osu-web', 'Yami98/osu-wiki', 'Yami98/Gector.ai-Web'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
