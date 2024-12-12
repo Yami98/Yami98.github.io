@@ -51,7 +51,7 @@ const CONFIG = {
         {
           title: 'Kuhaku Web',
           description:
-            'A web application developed for Almadina Company, built using the Laravel framework and powered by a MySQL database. This application provides a reliable and efficient solution tailored to meet the company operational needs.',
+            'A basic website for Kuhaku Team.',
           imageUrl:
             'https://media.discordapp.net/attachments/548675026191253536/1048503100417249341/Long_Kuhaku.png?ex=6759411b&is=6757ef9b&hm=ac8d6aadaa6f40dd5f140dbdf877b36b3113556e4faf99d796a570462bae3fcb&=&format=webp&quality=lossless&width=1195&height=434',
           link: '',
